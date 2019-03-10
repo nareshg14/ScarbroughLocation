@@ -49,5 +49,10 @@ public class Annotations {
 	public void cancelTickets(){
 		System.out.println("Cancel Tickets");
 	}
+	
+	@Test
+	public void ESTTest(){
+		System.out.println("Hello");
+	}
 
 }
