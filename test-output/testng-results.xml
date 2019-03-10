@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31220" started-at="2019-02-24T17:33:12Z" finished-at="2019-02-24T17:33:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31220" started-at="2019-02-24T17:33:12Z" finished-at="2019-02-24T17:33:43Z">
+      <class name="mavenProject.ScarbroughMavenProject.SurveyMonkeyLogin">
+        <test-method status="PASS" signature="loginApp(java.lang.String, java.lang.String)[pri:0, instance:mavenProject.ScarbroughMavenProject.SurveyMonkeyLogin@16e852b]" name="loginApp" duration-ms="18447" started-at="2019-02-24T17:33:12Z" data-provider="passValues" finished-at="2019-02-24T17:33:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumtraining]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="loginApp(java.lang.String, java.lang.String)[pri:0, instance:mavenProject.ScarbroughMavenProject.SurveyMonkeyLogin@16e852b]" name="loginApp" duration-ms="12734" started-at="2019-02-24T17:33:30Z" data-provider="passValues" finished-at="2019-02-24T17:33:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumtraining1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+      </class> <!-- mavenProject.ScarbroughMavenProject.SurveyMonkeyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
